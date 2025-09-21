@@ -1,0 +1,2 @@
+Notes on this dataset:
+    Labels are not completely consistent - Too many/few players, frisbee not labeled, etc.

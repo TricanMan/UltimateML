@@ -1,0 +1,16 @@
+names:
+- Endzone Marker
+- Field Marker
+- Frisbee
+- Players
+- Viewers
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: ultimate-frisbee-game-hlwqv
+  url: https://universe.roboflow.com/ultimate-frisbee-analysis/ultimate-frisbee-game-hlwqv/dataset/7
+  version: 7
+  workspace: ultimate-frisbee-analysis
+test: ../test/images
+train: Ultimate-Frisbee-Game-7/train/images
+val: Ultimate-Frisbee-Game-7/valid/images
